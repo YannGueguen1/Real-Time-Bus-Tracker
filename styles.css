@@ -25,11 +25,9 @@ body {
 
 #startMarker {
   background-image: url("startIcon.png");
-  /* padding-left: 20px;
-  margin-right: 4px; */
 }
 
 #finishMarker {
   background-image: url("finish-line.png");
-  /* padding-top: 100px; */
+  /* transform: translate(10px); */
 }
